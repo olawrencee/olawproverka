@@ -1,0 +1,12 @@
+---
+name: OlawProverka
+main: olawrencee\olawmain\Main
+api:
+- 5.0.0
+version: 1.0.0
+author: Olawrencee
+
+permissions:
+  olawproverka.use:
+    default: op
+...
